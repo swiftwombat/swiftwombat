@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
+
+![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=swiftwombat&show_icons=true&hide_border=true&theme=dark)
+
+<div align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=swiftwombat&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swiftwombat&layout=compact&theme=dark&hide_border=true" width = 400>
+</div>
+
 <!--
 **swiftwombat/swiftwombat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
