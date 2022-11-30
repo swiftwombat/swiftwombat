@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
-
-![Ghazi's github stats](https://github-readme-stats.vercel.app/api?username=swiftwombat&show_icons=true&hide_border=true&theme=dark)
-
 <div align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=swiftwombat&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swiftwombat&layout=compact&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats-swiftwombat.vercel.app/api/?username=swiftwombat&show_icons=true&bg_color=00000000&hide_border=true" width=400 height=180>
+  <img src = "https://github-readme-stats-swiftwombat.vercel.app/api/top-langs/?username=swiftwombat&layout=compact&show_icons=true&bg_color=00000000&hide_border=true" width = 400 height=180>
 </div>
 
 <!--
